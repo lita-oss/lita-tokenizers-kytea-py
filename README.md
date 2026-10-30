@@ -1,5 +1,7 @@
 # lita-tokenizers-kytea-py
 
+[![PyPI](https://img.shields.io/pypi/v/lita-tokenizers-kytea-py.svg)](https://pypi.org/project/lita-tokenizers-kytea-py/)
+
 KyTea bindings for Python.
 
 

@@ -13,6 +13,10 @@ classifiers = [
 
 dependencies = []
 
+[project.urls]
+Homepage = "https://github.com/lita-oss/lita-tokenizers-kytea-py"
+Repository = "https://github.com/lita-oss/lita-tokenizers-kytea-py"
+
 [build-system]
 requires = ["maturin>=1.15.0,<2"]
 build-backend = "maturin"
